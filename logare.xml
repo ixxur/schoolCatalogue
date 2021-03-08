@@ -1,0 +1,18 @@
+<users>
+    <username="Marius">
+        <parola>c0936814922593ee6b6ec39e866e3a5e53421c47ce9885bcf931bd54cb08a651</parola>
+        <status>elev</status>
+    </username>
+    <username="andreI">
+        <parola>934ca58234d353a03719d55ccbd9f3d4b56f5f61dfbddc957017b0ccc163d3d5</parola>
+        <status>elev</status>
+    </username>
+    <username="andrei">
+        <parola>934ca58234d353a03719d55ccbd9f3d4b56f5f61dfbddc957017b0ccc163d3d5</parola>
+        <status>invatator</status>
+    </username>
+    <username="valy11">
+        <parola>fda8a90c8833044879130857b47a9e764ddee92a7653e15c3abce212e78d41b9</parola>
+        <status>admin</status>
+    </username>
+</users>
